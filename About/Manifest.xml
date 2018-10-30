@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>EdBPrepareCarefully-fr</identifier>
+  <version>1.0.10</version>
+  <dependencies>
+      <li>EdBPrepareCarefully &gt;= 1.0.10</li>
+  </dependencies>
+  <manifestUri></manifestUri>
+  <downloadUri>https://github.com/b606/EdBPrepareCarefully-fr</downloadUri>
+</Manifest>
