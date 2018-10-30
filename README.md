@@ -9,5 +9,7 @@ EdB Prepare Carefully permet de personnaliser vos colons dans RimWorld, choisir 
 Ce mod contient seulement les fichiers de traduction en français du mod "EdB Prepare Carefully" qui, lui-même doit être chargé séparément.
 
 Auteur original : edbmods
+
 Lien GitHub : https://github.com/edbmods/EdBPrepareCarefully/releases/
+
 http://steamcommunity.com/workshop/filedetails/?id=735106432
