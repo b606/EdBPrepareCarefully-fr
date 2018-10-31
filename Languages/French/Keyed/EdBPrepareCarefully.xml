@@ -62,8 +62,8 @@
   <EdB.PC.Dialog.Implant.Conflict>Cet implant ne peut pas être installé car il entre en conflit avec les éléments suivants :\n\n- {0}, {1}</EdB.PC.Dialog.Implant.Conflict>
   <EdB.PC.Dialog.Implant.Header>Sélectionner Implants et Bioniques</EdB.PC.Dialog.Implant.Header>
 
-  <EdB.PC.Dialog.Injury.Header>Sélectionner une condition</EdB.PC.Dialog.Injury.Header>
-  <EdB.PC.Dialog.Injury.Error.Required>Vous devez sélectionner une condition</EdB.PC.Dialog.Injury.Error.Required>
+  <EdB.PC.Dialog.Injury.Header>Sélectionner un état de santé</EdB.PC.Dialog.Injury.Header>
+  <EdB.PC.Dialog.Injury.Error.Required>Vous devez sélectionner un état de santé</EdB.PC.Dialog.Injury.Error.Required>
   <EdB.PC.Dialog.Injury.OldInjury.Label>{0} ({1})</EdB.PC.Dialog.Injury.OldInjury.Label>
 
   <EdB.PC.Dialog.PawnPreset.Button.Load>Charger</EdB.PC.Dialog.PawnPreset.Button.Load>
