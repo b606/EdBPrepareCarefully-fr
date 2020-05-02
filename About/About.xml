@@ -3,7 +3,12 @@
   <name>EdB Prepare Carefully [Français]</name>
   <author>b606</author>
   <url>https://github.com/b606/EdBPrepareCarefully-fr</url>
-  <targetVersion>1.0.2059</targetVersion>
+<!--  <targetVersion>1.0.2059</targetVersion>-->
+  <packageId>b606.PrepareCarefully.fr</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
   <description>
 Fichiers de traduction en français du mod "EdB Prepare Carefully"
 

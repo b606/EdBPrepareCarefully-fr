@@ -108,6 +108,10 @@
   <EdB.PC.Equipment.Type.Medical>Eqp.Médical</EdB.PC.Equipment.Type.Medical>
   <EdB.PC.Equipment.Type.Resources>Ressources</EdB.PC.Equipment.Type.Resources>
   <EdB.PC.Equipment.Type.Weapons>Armes</EdB.PC.Equipment.Type.Weapons>
+  <EdB.PC.Equipment.LoadingProgress.Initializing>Initialisation...</EdB.PC.Equipment.LoadingProgress.Initializing>
+  <EdB.PC.Equipment.LoadingProgress.StuffDefs>Traitement des materiels...</EdB.PC.Equipment.LoadingProgress.StuffDefs>
+  <EdB.PC.Equipment.LoadingProgress.ThingDefs>Traitement des objets...</EdB.PC.Equipment.LoadingProgress.ThingDefs>
+  <EdB.PC.Equipment.LoadingProgress.Finished>Fin</EdB.PC.Equipment.LoadingProgress.Finished>
 
   <EdB.PC.Error.NotEnoughPoints>Vous avez utilisé trop de points.</EdB.PC.Error.NotEnoughPoints>
   <EdB.PC.Error.NotEnoughColonists1>Vous devez avoir au moins un colon.</EdB.PC.Error.NotEnoughColonists1>
@@ -119,6 +123,7 @@
   <EdB.PC.Pawn.BodyType.Average>Moyen</EdB.PC.Pawn.BodyType.Average>
   <EdB.PC.Pawn.BodyType.Heavyset>Lourd</EdB.PC.Pawn.BodyType.Heavyset>
   <EdB.PC.Pawn.BodyType.Hulking>Musclé</EdB.PC.Pawn.BodyType.Hulking>
+  <EdB.PC.Pawn.BodyType.Oval>Rond</EdB.PC.Pawn.BodyType.Oval>
   <EdB.PC.Pawn.BodyType.Thin>Mince</EdB.PC.Pawn.BodyType.Thin>
   <EdB.PC.Pawn.BodyType.Unnamed>Sans nom</EdB.PC.Pawn.BodyType.Unnamed>
   <EdB.PC.Pawn.HiddenPawnDescriptionWithGender>{0}, {1}</EdB.PC.Pawn.HiddenPawnDescriptionWithGender>
