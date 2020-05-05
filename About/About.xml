@@ -2,25 +2,40 @@
 <ModMetaData>
   <name>EdB Prepare Carefully [Français]</name>
   <author>b606</author>
-  <url>https://github.com/b606/EdBPrepareCarefully-fr</url>
-<!--  <targetVersion>1.0.2059</targetVersion>-->
+  <url>https://github.com/b606/EdBPrepareCarefully-fr/</url>
   <packageId>b606.PrepareCarefully.fr</packageId>
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
   </supportedVersions>
+  <modDependencies>
+		<li>
+			<packageId>EdB.PrepareCarefully</packageId>
+			<displayName>EdB Prepare Carefully</displayName>
+      <steamWorkshopUrl>http://steamcommunity.com/workshop/filedetails/?id=735106432</steamWorkshopUrl>
+      <downloadUrl>https://github.com/edbmods/EdBPrepareCarefully/releases/</downloadUrl>
+		</li>
+  </modDependencies>
+  <loadAfter>
+			<li>EdB.PrepareCarefully</li>
+  </loadAfter>
   <description>
 Fichiers de traduction en français du mod "EdB Prepare Carefully"
 
-Description :
+&lt;b&gt;Description&lt;/b&gt;
 
 EdB Prepare Carefully permet de personnaliser vos colons dans RimWorld, choisir les équipements et préparer soigneusement pour l'atterrissage en catastrophe ! Vous pouvez facultativement soit utiliser un nombre de points maximum pour essayer de créer un départ équilibré, soit désactiver les limites de points pour construire le groupe de départ que vous avez toujours voulu essayer. Vous pouvez aussi sauvegarder votre configuration en tant que préréglage afin de pouvoir commencer votre jeu de la même façon plus tard.
 
 Ce mod contient seulement les fichiers de traduction en français du mod "EdB Prepare Carefully" qui, lui-même doit être chargé séparément.
 
-Téléchargement : https://github.com/b606/EdBPrepareCarefully-fr/blob/master/Archives/EdBPrepareCarefully-fr.zip
+&lt;b&gt;Téléchargement&lt;/b&gt;
+https://github.com/b606/EdBPrepareCarefully-fr/releases
 
-Auteur original : edbmods
+&lt;b&gt;Autre mod&lt;/b&gt;
+Parlez-vous français ? [LanguageWorker_French Mod]
+https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
+
+&lt;b&gt;Auteur original : edbmods&lt;/b&gt;
 Lien GitHub : https://github.com/edbmods/EdBPrepareCarefully/releases/
 http://steamcommunity.com/workshop/filedetails/?id=735106432
 

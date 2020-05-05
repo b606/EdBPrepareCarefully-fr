@@ -5,6 +5,10 @@
   <dependencies>
       <li>EdBPrepareCarefully &gt;= 1.0.10</li>
   </dependencies>
+  <loadAfter>
+      <li>EdBPrepareCarefully</li>
+  </loadAfter>
+  <showCrossPromotions>false</showCrossPromotions>
   <manifestUri>https://github.com/b606/EdBPrepareCarefully-fr/blob/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/b606/EdBPrepareCarefully-fr/blob/master/Archives/EdBPrepareCarefully-fr.zip</downloadUri>
 </Manifest>
