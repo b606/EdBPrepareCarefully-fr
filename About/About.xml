@@ -7,6 +7,7 @@
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <modDependencies>
 		<li>
@@ -29,15 +30,24 @@ EdB Prepare Carefully permet de personnaliser vos colons dans RimWorld, choisir 
 Ce mod contient seulement les fichiers de traduction en français du mod "EdB Prepare Carefully" qui, lui-même doit être chargé séparément.
 
 &lt;b&gt;Téléchargement&lt;/b&gt;
-https://github.com/b606/EdBPrepareCarefully-fr/releases
+GitHub : https://github.com/b606/EdBPrepareCarefully-fr/releases
 
 &lt;b&gt;Autre mod&lt;/b&gt;
 Parlez-vous français ? [LanguageWorker_French Mod]
-https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
+Mod optimisant le français dans tout le jeu de RimWorld.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
+
+Numbers [Français]
+Traduction française du mod &lt;b&gt;Numbers&lt;/b&gt; 
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691155
+
+Numbers Trait AddOn [Français]
+Traduction française du mod &lt;b&gt;Numbers Trait AddOn&lt;/b&gt; 
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905
 
 &lt;b&gt;Auteur original : edbmods&lt;/b&gt;
-Lien GitHub : https://github.com/edbmods/EdBPrepareCarefully/releases/
-http://steamcommunity.com/workshop/filedetails/?id=735106432
+GitHub : https://github.com/edbmods/EdBPrepareCarefully/releases/
+Steam : http://steamcommunity.com/workshop/filedetails/?id=735106432
 
   </description>
 </ModMetaData>
