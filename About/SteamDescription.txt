@@ -1,0 +1,40 @@
+[h1]Fichiers de traduction en français du mod "EdB Prepare Carefully"[/h1]
+
+[h3]Description.[/h3]
+
+EdB Prepare Carefully permet de personnaliser vos colons dans RimWorld, choisir les équipements et préparer soigneusement pour l'atterrissage en catastrophe ! Vous pouvez facultativement soit utiliser un nombre de points maximum pour essayer de créer un départ équilibré, soit désactiver les limites de points pour construire le groupe de départ que vous avez toujours voulu essayer. Vous pouvez aussi sauvegarder votre configuration en tant que préréglage afin de pouvoir commencer votre jeu de la même façon plus tard.
+
+Ce mod contient seulement les fichiers de traduction en français du mod "EdB Prepare Carefully" qui, lui-même doit être chargé séparément.
+
+[h3]Téléchargement[/h3]
+GitHub : https://github.com/b606/EdBPrepareCarefully-fr/releases
+
+[h3]Auteur du mod de base : edbmods[/h3]
+GitHub : https://github.com/edbmods/EdBPrepareCarefully/releases/
+Steam : http://steamcommunity.com/workshop/filedetails/?id=735106432
+
+[h1]Autres mods[/h1]
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369][b]Parlez-vous français ? [LanguageWorker_French Mod][/b][/url]
+Mod optimisant le français dans tout le jeu de RimWorld.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img] 
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580][b]¿Habla usted español? [anguageWorker_Spanish Mod][/b][/url]
+Un mod para mejorar el español en RimWorld.
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2286691155][b]Numbers [Français][/b][/url]
+Traduction française du mod [b]Numbers[/b] 
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691155
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+★ [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905][b]Numbers Trait AddOn [Français][/b][/url]
+Traduction française du mod [b]Numbers Trait AddOn[/b] 
+Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701582101267/5AD43A56D3DF57812AD1930F926BC8CE30F0287A/[/img]
+
+[h1]Pour m'encourager[/h1]
+[img]https://steamuserimages-a.akamaihd.net/ugc/1666857701581836390/34CBC07D7ED73B6282B3F7AF2E3D47BB462BF9B1/[/img]
+Une petite pouce approbatrice sur SteamWorkshop
+
+[url=https://ko-fi.com/Z8Z51KQ21][img]https://steamuserimages-a.akamaihd.net/ugc/1666857701581884648/E7A2C95176A59BCBE7159C8939B3C975F97B6B01/[/img][/url]
+J'adore aussi le kofi https://ko-fi.com/b606at0116
