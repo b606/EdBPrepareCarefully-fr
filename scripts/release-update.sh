@@ -10,6 +10,8 @@ RELEASE_DIR="$HOME/.steam/steam/steamapps/common/RimWorld/Mods/"
 
 # 1. Update file in RimWorld-fr  
 cd $FR_DIR
+# Validate all xml files
+find . | grep xml | xargs xmllint --noout
 cp "Languages/French/Keyed/$MODNAME.xml" "Languages/RimWorld-fr/Keyed/$MODNAME.xml"
 
 # 2. Create zip archive

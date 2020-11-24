@@ -22,36 +22,10 @@
   </loadAfter>
   <description>
 Fichiers de traduction en français du mod "EdB Prepare Carefully"
-
-&lt;b&gt;Description&lt;/b&gt;
-
-EdB Prepare Carefully permet de personnaliser vos colons dans RimWorld, choisir les équipements et préparer soigneusement pour l'atterrissage en catastrophe ! Vous pouvez facultativement soit utiliser un nombre de points maximum pour essayer de créer un départ équilibré, soit désactiver les limites de points pour construire le groupe de départ que vous avez toujours voulu essayer. Vous pouvez aussi sauvegarder votre configuration en tant que préréglage afin de pouvoir commencer votre jeu de la même façon plus tard.
-
-Ce mod contient seulement les fichiers de traduction en français du mod "EdB Prepare Carefully" qui, lui-même doit être chargé séparément.
-
-&lt;b&gt;Téléchargement&lt;/b&gt;
-GitHub : https://github.com/b606/EdBPrepareCarefully-fr/releases
+EdB Prepare Carefully permet de personnaliser vos colons dans RimWorld, choisir les équipements et préparer soigneusement pour l'atterrissage en catastrophe !
 
 &lt;b&gt;Auteur du mod de base : edbmods&lt;/b&gt;
 GitHub : https://github.com/edbmods/EdBPrepareCarefully/releases/
 Steam : http://steamcommunity.com/workshop/filedetails/?id=735106432
-
-&lt;b&gt;Autres mods&lt;/b&gt;
-Parlez-vous français ? [LanguageWorker_French Mod]
-Mod optimisant le français dans tout le jeu de RimWorld.
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2081845369
-
-¿Habla usted español? [anguageWorker_Spanish Mod]
-Un mod para mejorar el español en RimWorld.
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2293997580
-
-Numbers [Français]
-Traduction française du mod &lt;b&gt;Numbers&lt;/b&gt; 
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691155
-
-Numbers Trait AddOn [Français]
-Traduction française du mod &lt;b&gt;Numbers Trait AddOn&lt;/b&gt; 
-Steam : https://steamcommunity.com/sharedfiles/filedetails/?id=2286691905
-
   </description>
 </ModMetaData>
