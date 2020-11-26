@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>EdBPrepareCarefully-fr</identifier>
-  <version>1.1.1</version>
+  <version>1.2.0-1</version>
   <dependencies>
-      <li>EdBPrepareCarefully &gt;= 1.0.10</li>
+      <li>EdBPrepareCarefully</li>
   </dependencies>
   <loadAfter>
       <li>EdBPrepareCarefully</li>
   </loadAfter>
-  <showCrossPromotions>false</showCrossPromotions>
-  <manifestUri>https://github.com/b606/EdBPrepareCarefully-fr/blob/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/b606/EdBPrepareCarefully-fr/blob/master/Archives/EdBPrepareCarefully-fr.zip</downloadUri>
+  <showCrossPromotions>true</showCrossPromotions>
+  <manifestUri>https://github.com/b606/EdBPrepareCarefully-fr/raw/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/b606/EdBPrepareCarefully-fr/releases/latest</downloadUri>
 </Manifest>
